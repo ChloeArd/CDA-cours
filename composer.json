@@ -1,0 +1,16 @@
+{
+    "name": "chloe/weather",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Chloe\\Weather\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ChloeArd",
+            "email": "chloe.ardoise@gmail.com"
+        }
+    ],
+    "require": {}
+}
