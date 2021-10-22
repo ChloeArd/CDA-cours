@@ -1,0 +1,1 @@
+import "./../node_modules/charte.js/dist/chart.js";
